@@ -1,6 +1,6 @@
-# Task 2
+# Creating a Chart
 
-intro....
+In this section, we will explore another basic use of Excel: Creating a Chart, and this is a follow up tutorial to the previous tutorial: creating a budget. Also, we will work with seperate sheets to seperate data and organize the project
 
 1. Click on the plus sign on the bottom left of the page to add a new sheet:
 ![Task2 Image](Assets/Task2/Task2_1.png)

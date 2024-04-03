@@ -1,4 +1,4 @@
-# Excel Fundamental 1
+# Creating a Budget
 
 ## overview
 
