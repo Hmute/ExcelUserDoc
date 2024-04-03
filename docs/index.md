@@ -2,7 +2,7 @@
 
 Welcome to a beginners guide to Excel. Microsoft's Excel is a powerful tool that can be used for a variety of tasks. This documentation will guide you through a collection of 3 task that are part of an Excel beginners project. This tutorial’s main purpose is to teach the main basic foundation steps on how to use Microsoft’s Excel, including teaching new users to use the formula tools, create graphs, and extract information from data. It aims to guide you through Microsoft’s Excel UI and get you acquainted with the capabilities of the program, providing you with the knowledge to start using Excel for your own projects.
 
-(**Picture 1**)
+![Excel Image](Assets/Index/Index1.png)
 
 ## Intended Users
 
@@ -34,9 +34,9 @@ Before you start this tutorial, you should have the following software installed
 
 The main sections of the documentation are:
 
-* Milestone 1: Creating a small budget table in Excel (**Picture 1**)
-* Milestone 2: Creating a chart in Excel (**Picture 1**)
-* Milestone 3: Creating a CheckList in Excel (**Picture 1**)
+* Milestone 1: Creating a small budget table in Excel ![Budget](Assets/Index/Index2.png)
+* Milestone 2: Creating a chart in Excel ![Chart](Assets/Index/Index3.png)
+* Milestone 3: Creating a CheckList in Excel ![CheckList](Assets/Index/Index4.png)
 
 ## Conventions
 
