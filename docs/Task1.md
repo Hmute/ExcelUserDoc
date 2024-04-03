@@ -4,5 +4,4 @@ intro....
 
 1. 
 
-![Picture 1](Assets\Task1\Task1_1(B).png)
-![Picture 2](../Assets/Task1/Task1_2(A).png)
+![Task1 Image](./Assets/Task1/Task1_(B).png)
