@@ -34,14 +34,14 @@ Before you start this tutorial, you should have the following software installed
 
 The main sections of the documentation are:
 
-* Milestone 1: Creating a small budget table in Excel 
+* Milestone 1: [Creating a small budget table in Excel ](Task1.md)  
 
-![Budget](Assets/Index/Index2.png)
+![Budget](Assets/Index/Index2.png)  
 
-* Milestone 2: Creating a chart in Excel 
+* Milestone 2: [Creating a chart in Excel](Task2.md)  
 
-![Chart](Assets/Index/Index3.png)
+![Chart](Assets/Index/Index3.png)  
 
-* Milestone 3: Creating a CheckList in Excel 
+* Milestone 3: [Creating a CheckList in Excel](Task3.md)  
 
-![CheckList](Assets/Index/Index4.png)
+![CheckList](Assets/Index/Index4.png)  
