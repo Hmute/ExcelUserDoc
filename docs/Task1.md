@@ -63,4 +63,4 @@ In order to display currency as format of the number entries, we will be formatt
 
 In this section, we have learned how to create a budget using Excel. We have entered data in the cells, applied the SUM function to calculate the total expenses, and created a table to organize the information. Excel is a powerful tool for managing and analyzing data, and it can be used for a wide range of tasks, from simple calculations to complex financial modeling. By mastering the basics of Excel, you can improve your productivity and efficiency in various work settings.
 
-# [Creating a Chart](Task2.md)
+# [_Creating a Chart_](Task2.md)

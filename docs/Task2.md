@@ -2,7 +2,7 @@
 
 ## Overview
 
-In this section, we will explore another basic use of Excel: Creating a Chart, and this is a follow up tutorial to the previous tutorial: [Creating a budget](Task1.md). Also, we will work with seperate sheets to seperate data and organize the project
+In this section, we will explore another basic use of Excel: Creating a Chart, and this is a follow up tutorial to the previous tutorial: [_Creating a budget_](Task1.md). Also, we will work with a separate sheet to separate data and organize the project
 
 ## Getting started
 
@@ -53,4 +53,4 @@ Should be the same currency as the currency previously used (link to task of cur
 
 In this tutorial, we have learned how to create a chart in Excel. This is a useful tool to visualize data and make it easier to understand. We have also learned how to work with multiple sheets in Excel, which can help organize data and make it easier to manage large projects.
 
-On the next tutorial, we will learn how to create a [CheckList](Task3.md) in Excel.
+On the next tutorial, we will learn how to create a [_CheckList_](Task3.md) in Excel.
