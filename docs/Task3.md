@@ -17,23 +17,29 @@ We will also expand on different use of formatting and a new use to it.
 !!! warning "Warning"
     <i class="fas fa-exclamation-triangle"></i> In order to do this tutorial, you should have successfully completed the previous tutorials: [_Creating a budget_](Task1.md) and [_Creating a chart_](Task2.md)
 
+## Setting up 
+We will first create a new worksheet and add new labels.
 
 1. Click on the Plus sign to create a new Sheet, and rename the sheet to “CheckList”.  
 ![Task3 Image](Assets/Task3/Task3_1.png)  
-Hover Over the border between ROW A and ROW B, until you see the cursor become a separator.  
-![Task3 Image](Assets/Task3/Task3_1Help.png)  
+
+2. Hover Over the border between ROW A and ROW B, until you see the cursor become a separator.  
+![Task3 Image](Assets/Task3/Task3_1Help.png) 
+
 
 3.  Click and drag on Column A to enlarge the size of the column.  
 ![Task3 Image](Assets/Task3/Task3_2.png)    
+Enlarging the size of the cells are beneficial as if they are not big enough, data in the cells might not be fully visible. We are enlarging Column A as it will have descriptions/title for checklist
 
 
 4.  Click on cell A1  to E1 and Label them in sequence, “Task,” “Expected,” “Actual,” “Date,” "Check”.  
 ![Task3 Image](Assets/Task3/Task3_3.png)  
+Since we are using budgeting as an example for this tutorial, we will use labels, "Expected" and "Actual" from previous tutorials to keep track of the "actual" data compared to "Expected" data. 
 
-## Formatting cells under labels
+## [Formatting](Glossary.md) cells under labels
 
 !!! note "Info"
-    <i class="fas fa-info-circle"></i> Cells can be formatted even if they are empty. Their input will automatically get formatted.
+    <i class="fas fa-info-circle"></i> Cells can be [Formatted](Glossary.md) even if they are empty. Their input will automatically get converted to their given [Format](Glossary.md).
 
 
 5. Click and drag the cells under "Expected" and "Actual to needed amount.
@@ -46,13 +52,13 @@ Note that although the cells under those labels are empty, they are highlighted 
 
 
 
-6.  Format the cells under label “date” by going to the drop down menu on the “Number” sub section and set it to “Long Date” 
+6.  [Format](Glossary.md) the cells under label “date” by going to the drop down menu on the “Number” sub section and set it to “Long Date” 
 ![Task3 Image](Assets/Task3/Task3_5.png)  
  Again, data format can be done before inputting data. This will make the input data into date format. The Date input must have three sections divided by slash or dash in order to work, but date usually follows the date format(YYYYMMDD).  
 ![Task3 Image](Assets/Task3/Task3_5B.png)
 ![Task3 Image](Assets/Task3/Task3_5C.png)
 
-## Creating a check box
+## Creating a checklist
 !!! note "Info"
     <i class="fas fa-info-circle"></i> Check box is under the "Developer" Tab, but we need to manually add it, as it is not provided in Excel by default.
 
