@@ -23,6 +23,7 @@ Benefits of working on separate sheets:
 
 * Allows for focused analysis and cleaner presentation, as you can segregate raw data, calculations, and visualizations effectively.
 
+* Allows comparisons between the data of the different sheets that may have same labels.
 ## Creating a new worksheet
 
 
@@ -87,4 +88,5 @@ In this tutorial, we have accomplished:
 
 
 
-On the next tutorial, we will learn how to create a [_CheckList_](Task3.md) in Excel.
+On the next tutorial, we will learn how to create: 
+## [_Check List(Click to proceed)_](Task3.md)
