@@ -2,7 +2,7 @@
 
 Welcome to a beginners guide to Excel. Microsoft's Excel is a powerful tool that can be used for a variety of tasks. This documentation will guide you through a collection of 3 task that are part of an Excel beginners project. This tutorial’s main purpose is to teach the main basic foundation steps on how to use Microsoft’s Excel, including teaching new users to use the formula tools, create graphs, and extract information from data. It aims to guide you through Microsoft’s Excel UI and get you acquainted with the capabilities of the program, providing you with the knowledge to start using Excel for your own projects.
 
-![Excel Image](Assets/Index/Index1.png) { align=center }
+![Excel Image](Assets/Index/Index1.png)
 
 ## Intended Users
 
