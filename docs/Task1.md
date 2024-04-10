@@ -32,7 +32,7 @@ The purpose of this step is to sum the number entries, which are expenses per mo
 
 ## Applying [_Function_](Glossary.md)
 
-!!! warning "Warning"
+!!! note "Info"
     <i class="fas fa-exclamation-triangle"></i> Function can only be applied to the data of the same data type. For instance, "SUM" function in Excel can only be applied to numbers.
 
 6. Enter "=sum(" under "Total" cell:
@@ -59,7 +59,7 @@ Doing this will gather all the numbers to be summed. Again, SUM function only wo
 
 We will [_format_](Glossary.md) the number data into currency as our example in this tutorial deals with a budget.
 
-11. Click the dollar icon($) under the "Number" sub  section of the "Home" tab, Between "Alignment", and "Styles":
+11. Click and drag over the number data and click the dollar icon($) under the "Number" sub  section of the "Home" tab, Between "Alignment", and "Styles":
 ![Task1 Image](Assets/Task1/Task1_10B.png)  
 In order to display currency as format of the number entries, we will be formatting our entries to currency.
 

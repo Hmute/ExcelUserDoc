@@ -2,9 +2,21 @@
 
 ## Overview
 
-In this section, we will explore another basic use of Excel: Creating a Checklist. A checklist is a list of items that need to be completed or checked off. It is a useful tool for keeping track of tasks and ensuring that nothing is overlooked. In order to to this tutorial, you should have successfully completed the previous tutorials: [_Creating a budget_](Task1.md) and [_Creating a chart_](Task2.md).
+In this section, we will explore another basic use of Excel: Creating a Checklist. A checklist is a list of items that need to be completed or checked off. It is a useful tool for:
 
-0. You Have successfully completed Task 1 and 2  
+* Tracking the completion of various tasks or items.
+* Organizing and prioritizing tasks efficiently.
+* Visual cue for what's been accomplished and what's pending.
+* Monitoring progress toward goals or deadlines
+
+
+In this tutorial, we will be creating a check box in the context of budgeting as we did in previous tutorials. We will work on a new sheet, and keep track of how much was "actually" spent on certain expenses compared to "expected" expense per given date.
+
+We will also expand on different use of formatting and a new use to it.
+
+!!! warning "Warning"
+    <i class="fas fa-exclamation-triangle"></i> In order to do this tutorial, you should have successfully completed the previous tutorials: [_Creating a budget_](Task1.md) and [_Creating a chart_](Task2.md)
+
 
 1. Click on the Plus sign to create a new Sheet, and rename the sheet to “CheckList”.  
 ![Task3 Image](Assets/Task3/Task3_1.png)  
@@ -18,16 +30,32 @@ Hover Over the border between ROW A and ROW B, until you see the cursor become a
 4.  Click on cell A1  to E1 and Label them in sequence, “Task,” “Expected,” “Actual,” “Date,” "Check”.  
 ![Task3 Image](Assets/Task3/Task3_3.png)  
 
+## Formatting cells under labels
+
+!!! note "Info"
+    <i class="fas fa-info-circle"></i> Cells can be formatted even if they are empty. Their input will automatically get formatted.
+
+
+5. Click and drag the cells under "Expected" and "Actual to needed amount.
+![Task3 Image](Assets/Task3/Task3_4A.png)
+In our example, we are highlighting the cells under those labels down to 11.
 
 5.  Format Cells Under Labels “Expected” and “Actual” to currency (As previously explained in [_Creating a budget_](Task1.md))  
-![Task3 Image](Assets/Task3/Task3_4.png)  
+![Task3 Image](Assets/Task3/Task3_4.png) 
+Note that although the cells under those labels are empty, they are highlighted from the previous step, so their inputs will automatically be formatted to currency.
+
 
 
 6.  Format the cells under label “date” by going to the drop down menu on the “Number” sub section and set it to “Long Date” 
 ![Task3 Image](Assets/Task3/Task3_5.png)  
- Data format can be done before inputting data. This will make the input data into date format. The Date input must have three sections divided by slash or dash in order to work, but date usually follows the date format(YYYYMMDD).  
+ Again, data format can be done before inputting data. This will make the input data into date format. The Date input must have three sections divided by slash or dash in order to work, but date usually follows the date format(YYYYMMDD).  
 ![Task3 Image](Assets/Task3/Task3_5B.png)
 ![Task3 Image](Assets/Task3/Task3_5C.png)
+
+## Creating a check box
+!!! note "Info"
+    <i class="fas fa-info-circle"></i> Check box is under the "Developer" Tab, but we need to manually add it, as it is not provided in Excel by default.
+
 
 7.  Right Click Under The “Review” Tab on the top of the Navigation Bar and hit the “customize Ribbon Option”, and check mark the “Developer” Option, press OK.    
 ![Task3 Image](Assets/Task3/Task3_6.png)  
