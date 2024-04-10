@@ -88,4 +88,19 @@ This will be a constant update as new task arrive and new data in inputted.
 
 ## Conclusion
 
-Congratulations! You have successfully finished the Excel tutorial Basics. You have learned how to create a budget, a chart, and a checklist in Excel. These are useful tools that can help you organize and manage your projects more effectively. You are now ready to start using Excel for your own projects and tasks. There is still much more to learn about Excel, so keep practicing and exploring the different features and functions of the program. Good luck!.  
+Congratulations! You have successfully finished the Excel tutorial Basics. You have learned how to create:
+
+ :white_check_mark: Budget
+
+ :white_check_mark: Chart
+
+ :white_check_mark: Checklist
+
+
+These are useful tools that can help you organize and manage your projects more effectively. You are now ready to start using Excel for your own projects and tasks. There is still much more to learn about Excel, so keep practicing and exploring the different features and functions of the program. Good luck!.  
+
+
+
+!!! success "Success"
+    You have successfully completed all the tutorials!
+    
