@@ -18,4 +18,10 @@
 
 - Worksheet: A single tab within a workbook where data is entered and manipulated. A workbook can contain multiple worksheets, each with its own set of cells and data.
 
-- Workbook : A workbook in Excel is a file that contains one or more worksheets. It is the primary document where data is stored and analyzed. Workbooks can contain charts, formulas, tables, and other Excel objects.  
+- Workbook : A workbook in Excel is a file that contains one or more worksheets. It is the primary document where data is stored and analyzed. Workbooks can contain charts, formulas, tables, and other Excel objects.
+
+- Formula: A formula in Excel is an expression that performs calculations or manipulations on values in cells. Formulas can include mathematical operations, cell references, functions, and constants.
+
+- Column: A column in Excel is a vertical series of cells identified by letters (A, B, C, etc.). Columns are used to organize and store data in a worksheet.
+
+- Row: A row in Excel is a horizontal series of cells identified by numbers (1, 2, 3, etc.). Rows are used to organize and store data in a worksheet.
