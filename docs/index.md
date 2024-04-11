@@ -43,14 +43,18 @@ The main sections of the documentation are:
 ![CheckList](Assets/Index/Index4.png)  
 
 
-## Typographical Convention
+## Typographical Conventions
 
-Some words/phrases are highlighted in color, cyan, that is clickable. It will forward you to a certain section in the document that is relevant. This can be useful for reducing effort in navigating through the document. For instance:
+1. Some words/phrases are highlighted in color, cyan, that is clickable. It will forward you to a certain section in the document that is relevant. This can be useful for reducing effort in navigating through the document. For instance:
 
-* Clicking on key terms like, [Format](Glossary.md), will lead you to the glossary section
+    * Clicking on key terms like, [Format](Glossary.md), will lead you to the glossary section
 
 
-* Clicking on phrases that describes one of the tasks like, [Creating a Chart](Glossary.md), will lead you to that specific task section.
+    * Clicking on phrases that describes one of the tasks like, [Creating a Chart](Glossary.md), will lead you to that specific task section.
+
+2. Additional explanation(s) after certain instructions are in bullet point and under the instructions. For instance:
+    1. This is an example instruction:
+        * This is a follow up explanation.
 
 ## Notes and Warning Messages
 
