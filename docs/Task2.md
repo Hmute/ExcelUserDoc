@@ -45,13 +45,13 @@ We will continue from where we left off from previous task, [Creating a budget](
 
 Since the separate sheets indicate that they share the same [table](Glossary.md) in terms of labels, we will transfer the [table](Glossary.md) from "Expected" sheet to the current [worksheet](Glossary.md):
 
-4. Click and drag over the months labels of the [table](Glossary.md) made from [Creating a budget](Task1.md), then copy and paste it to row 1 starting at cell B on "Actual" sheet:
-    * We want to leave space at cell A for expense labels that we will copy and paste to the current worksheet.
+4. Click and drag over the months labels of the [table](Glossary.md) made from [Creating a budget](Task1.md), then copy and paste it to [row](Glossary.md) 1 starting at [column](Glossary.md) B on "Actual" sheet:
+    * We want to leave space at [column](Glossary.md) A for expense labels that we will copy and paste to the current worksheet.
 
-4. Click and drag over the expense labels of [table](Glossary.md) made from [Creating a budget](Task1.md), then copy and paste it to cell B from row 2 on "Actual" sheet:
+4. Click and drag over the expense labels of [table](Glossary.md) made from [Creating a budget](Task1.md), then copy and paste it to [row](Glossary.md) 2 under [column](Glossary.md) A on "Actual" sheet:
    ![Task2 Image](Assets/Task2/Task2_4.png)
    ![Task2 Image](Assets/Task2/Task2_4B.png)
-   * We want to leave space at row 1, which will produce identical [table](Glossary.md) minus the number inputs.
+   * We want to leave space at [row](Glossary.md) 1, which will produce identical [table](Glossary.md) minus the number inputs.
 
     !!! warning "Warning"
         <i class="fas fa-exclamation-triangle"></i> 

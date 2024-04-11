@@ -23,17 +23,17 @@ We will first create a new [worksheet](Glossary.md) and add new labels.
 1. Click on the Plus sign to create a new Sheet, and rename the sheet to “CheckList”.  
 ![Task3 Image](Assets/Task3/Task3_1.png)  
 
-2. Hover Over the border between [cell](Glossary.md) A and [cell](Glossary.md) B, until you see the cursor become a separator.  
+2. Hover Over the border between [column](Glossary.md) A and [column](Glossary.md) B, until you see the cursor become a separator.  
 ![Task3 Image](Assets/Task3/Task3_1Help.png) 
-    * This image displays different [cells](Glossary.md), but the logic applies.
+    * This image displays different [columns](Glossary.md), but the logic applies.
 
 
-3.  Click and drag to the right to enlarge the size of column A.  
+3.  Click and drag to the right to enlarge the size of [column](Glossary.md) A and its cells below.  
 ![Task3 Image](Assets/Task3/Task3_2.png)    
-    * Enlarging the size of the [cells](Glossary.md) are beneficial as if they are not big enough, data in the cells might not be fully visible. We are enlarging [cell](Glossary.md) A as it may contain lengthy text type labels.
+    * Enlarging the size of the [cells](Glossary.md) are beneficial as if they are not big enough, data in the cells might not be fully visible. We are enlarging [cells](Glossary.md) in column A as it may contain lengthy text type labels.
 
 
-4.  Label [cells](Glossary.md) A1  to E1 in sequence: “Task,” “Expected,” “Actual,” “Date,” "Check”:
+4.  Label [cells](Glossary.md) in [row](Glossary.md) 1 from [column](Glossary.md) A  to E in sequence: “Task,” “Expected,” “Actual,” “Date,” "Check”:
 ![Task3 Image](Assets/Task3/Task3_3.png)  
     * Since we are using budgeting as an example for the entirety of the tutorials, we will use labels, "Expected" and "Actual" from previous tutorials to keep track of the "actual" [data](Glossary.md) compared to "Expected" data. 
 
@@ -78,7 +78,7 @@ We will first create a new [worksheet](Glossary.md) and add new labels.
 ![Task3 Image](Assets/Task3/Task3_7.png)
 ![Task3 Image](Assets/Task3/Task3_7B.png)
 
-7. Resize the checkBox to fit in the [cell](Glossary.md) under "Check" [cell](Glossary.md) by clicking and dragging one of the circles at one of the edges on the Check Box icon:
+7. Resize the checkBox to fit in the [cell](Glossary.md) under "Check" [cell](Glossary.md), a row below, by clicking and dragging one of the circles at one of the edges on the Check Box icon:
     ![Task3 Image](Assets/Task3/Task3_8.png) 
     ![Task3 Image](Assets/Task3/Task3_8B.png)  
 

@@ -14,31 +14,31 @@ We will be creating a hypothetical budget to give you a general idea of how Exce
     * You should be on "Home" section to access "Blank workbook"
  
 
-2. Label the [cells](Glossary.md) from B1 onward with the months of the year.:
+2. Label the [cells](Glossary.md) from [row](Glossary.md) 1 starting at [column](Glossary.md) B onward with the months of the year:
 ![Task1 Image](Assets/Task1/Task1_2.png)  
     * This sets up a clear timeline in this instance of creating a budget
-    * Column A is left blank for additional categories or labels as needed
+    * [Column](Glossary.md) A is left blank for additional categories or labels as needed
     * We're labeling cells with all the months of the year; however, you can customize this based on your needs, such as only labeling through April if that suits your project.
 
-3. Click on [cell](Glossary.md) A2 to label any expense:
+3. Click and label [cells](Glossary.md) from [row](Glossary.md) 2 in [column](Glossary.md) A to label any expense:
 ![Task1 Image](Assets/Task1/Task1_3.png)  
-    * We’re using rows A2 to A7 for six expense categories, ensuring there’s a one-column gap to the right for a cleaner separation from the monthly labels in columns B to M.
+    * We’re using [rows](Glossary.md) 2 to 7 for six expense categories, ensuring there’s a one-column gap to the right for a cleaner separation from the monthly labels in [columns](Glossary.md) B to M.
     
 
 4. Enter your monthly expenses under the corresponding month:
 ![Task1 Image](Assets/Task1/Task1_4.png)  
     * For instance, if you spent $400 on groceries in January, enter '400' in the cell under 'Jan' next to 'Groceries'.
 
-5. Click on [cell](Glossary.md) O1 and label it "Total":
+5. Click on [cell](Glossary.md) at [row](Glossary.md) 1 [column](Glossary.md) O and label it "Total":
 ![Task1 Image](Assets/Task1/Task1_5.png)  
-    * This step is for totaling the monthly expenses. We use [cell](Glossary.md) O1 for the 'Total' column to maintain a clear separation from the monthly data, ensuring there's at least one blank column as for easy distinction.
+    * This step is for totaling the monthly expenses. We use [cell](Glossary.md) at [row](Glossary.md) 1 [column](Glossary.md) O for the 'Total' label to maintain a clear separation from the monthly data, ensuring there's at least one blank [column](Glossary.md) as for easy distinction.
 
 ## Applying [Function](Glossary.md)
 
 !!! note "Info"
     <i class="fas fa-exclamation-triangle"></i> [Function](Glossary.md) can only be applied to the data of the same data type. For instance, "SUM" [function](Glossary.md) in Excel can only be applied to numbers.
 
-6. Enter "=sum(" under "Total" cell:
+6. Enter "=sum(" under "Total" [cell](Glossary.md):
 ![Task1 Image](Assets/Task1/Task1_6.png)
 
 7. Click and drag the mouse over the numbers, then hit enter to sum how much is spent on expense(s) over time:
@@ -69,6 +69,7 @@ We will [format](Glossary.md) the number data into currency as our example in th
 
 12. Press CTRL + S, label the "File name" "budget" and click "Save" to save:
 ![Task1 Image](Assets/Task1/Task1_11.png)  
+    * We are naming the file "budget", but you can choose your desired name for it.
 
 
 ## Conclusion
