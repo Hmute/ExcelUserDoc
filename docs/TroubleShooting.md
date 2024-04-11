@@ -3,7 +3,7 @@
 ## "####" Error
 
 If you see an error like this:  
-![TroubleShooting image](Assets\TroubleS\Hashtag.png)
+![Error](Assets\TroubleS\Hashtag.png)
 
 It means that the cell is not wide enough to display the content. To fix this, you can either increase the column width or wrap the text within the cell. Here's how you can do it:
 
@@ -20,7 +20,7 @@ It means that the cell is not wide enough to display the content. To fix this, y
 
 If you see a `#VALUE!` error in a cell, it means that there is a problem with the formula or function used in that cell. This error occurs when Excel cannot interpret the formula or function correctly. Here are some common reasons for the `#VALUE!` error and how to fix them:
 
-![Error](Assets\TroubleS\Value.png)
+![Error02](Assets/TroubleS/Value.png)
 
 1. **Incorrect Data Type:**  
     - Check if the data types in the formula are compatible. For example, if you are trying to perform a mathematical operation on text values, Excel will return a `#VALUE!` error.
@@ -33,7 +33,7 @@ If you see a `#VALUE!` error in a cell, it means that there is a problem with th
 
 If you see a `#NAME?` error in a cell, it means that Excel does not recognize the function or formula used in that cell. This error occurs when Excel cannot find the function or formula name. Here's how you can fix the `#NAME?` error:
 
-![Error](Assets\TroubleS\NAME.png)
+![Error03](Assets/TroubleS/NAME.png)
 
 1. **Check Spelling:**  
     - Make sure that the function or formula name is spelled correctly. Excel is case-insensitive, so the case of the function name does not matter.
