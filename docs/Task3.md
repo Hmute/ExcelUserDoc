@@ -48,7 +48,7 @@ We will first create a new [worksheet](Glossary.md) and add new labels.
 
 5. Click and drag the [cells](Glossary.md) under "Expected" and "Actual to needed amount.
 ![Task3 Image](Assets/Task3/Task3_4A.png)
-    * In our example, we are highlighting the cells under those labels down to row 11.
+    * In our example, we are highlighting the cells under those labels down to row 11. We will be inputting [data](Glossary.md) in these [cells](Glossary.md) to keep track of the budget. Dragging the mouse over the [cells](Glossary.md) will highlight them, we are only highlighting the [cells](Glossary.md) that are going to be used to keep track of the budget.
 
 5.  [Format](Glossary.md) [cells](Glossary.md) Under Labels “Expected” and “Actual” to currency (As previously explained in [_Creating a budget_](Task1.md))  
 ![Task3 Image](Assets/Task3/Task3_4.png) 
