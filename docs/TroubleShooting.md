@@ -3,7 +3,7 @@
 ## "####" Error
 
 If you see an error like this:  
-![Error](Assets\TroubleS\Hashtag.png)
+![TroubleShooting image](Assets\TroubleS\Hashtag.png)
 
 It means that the cell is not wide enough to display the content. To fix this, you can either increase the column width or wrap the text within the cell. Here's how you can do it:
 

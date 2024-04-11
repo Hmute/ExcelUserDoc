@@ -11,29 +11,32 @@ We will be creating a hypothetical budget to give you a general idea of how Exce
 
 1. Click on "Blank workbook" to create a new worksheet:
 ![Task1 Image](Assets/Task1/Task1_1A.png)  
-You should be on "Home" section to access "Blank workbook"
+    * You should be on "Home" section to access "Blank workbook"
  
 
-2. Label the cells on row 1 from B1 the months of a year in order:
+2. Label the cells from B1 onward with the months of the year.:
 ![Task1 Image](Assets/Task1/Task1_2.png)  
-Since We will be creating a budget, we will use months of the year as labels per column. We start at cell B1, because we next an extra space at column A for other labels in it.
+    * This sets up a clear timeline in this instance of creating a budget
+    * Column A is left blank for additional categories or labels as needed
+    * We're labeling cells with all the months of the year; however, you can customize this based on your needs, such as only labeling through April if that suits your project.
 
 3. Click on cell A2 to label any expense:
 ![Task1 Image](Assets/Task1/Task1_3.png)  
-In this example, we are labeling 6 columns to A7 as we have 6 expenses to work with. We start at A2, because per column in A, we want an empty cell between it and other letter columns. In our case, we are aligning A columns with columns B to M.
+    * We’re using rows A2 to A7 for six expense categories, ensuring there’s a one-column gap to the right for a cleaner separation from the monthly labels in columns B to M.
+    
 
-4. Enter number next to expense(s) under months to display how much is spent per month on the labeled expense(s):
+4. Enter your monthly expenses under the corresponding month:
 ![Task1 Image](Assets/Task1/Task1_4.png)  
-We will use numbers as inputs to convey  how much is spent on expense(s) under the give months. For example, we have "Groceries" as one our expenses and have 400 in Jan, 350 in Feb to 400 in december.
+    * For instance, if you spent $400 on groceries in January, enter '400' in the cell under 'Jan' next to 'Groceries'.
 
 5. Click on cell O1 and label it "Total":
 ![Task1 Image](Assets/Task1/Task1_5.png)  
-The purpose of this step is to sum the number entries, which are expenses per month. We chose cell O1 to make spaces between the Total label and other labels. You should always have a distance of at least one column between the data added and the result.
+    * This step is for totaling the monthly expenses. We use cell O1 for the 'Total' column to maintain a clear separation from the monthly data, ensuring there's at least one blank column as for easy distinction.
 
-## Applying [_Function_](Glossary.md)
+## Applying [Function](Glossary.md)
 
 !!! note "Info"
-    <i class="fas fa-exclamation-triangle"></i> Function can only be applied to the data of the same data type. For instance, "SUM" function in Excel can only be applied to numbers.
+    <i class="fas fa-exclamation-triangle"></i> [Function](Glossary.md) can only be applied to the data of the same data type. For instance, "SUM" function in Excel can only be applied to numbers.
 
 6. Enter "=sum(" under "Total" cell:
 ![Task1 Image](Assets/Task1/Task1_6.png)
@@ -41,7 +44,7 @@ The purpose of this step is to sum the number entries, which are expenses per mo
 7. Click and drag the mouse over the numbers, then hit enter to sum how much is spent on expense(s) over time:
 ![Task1 Image](Assets/Task1/Task1_7.png)
 ![Task1 Image](Assets/Task1/Task1_7B.png)
-Doing this will gather all the numbers to be summed. Again, SUM function only works with numerical values.
+    * Doing this will gather all the numbers to be summed. Again, SUM function only works with numerical values.
 
 ## Creating a [Table](Glossary.md)
 8. Click and drag the mouse over the table and press ALT + H:
@@ -61,7 +64,7 @@ We will [_format_](Glossary.md) the number data into currency as our example in 
 
 11. Click and drag over the number data and click the dollar icon($) under the "Number" sub  section of the "Home" tab, Between "Alignment", and "Styles":
 ![Task1 Image](Assets/Task1/Task1_10B.png)  
-In order to display currency as format of the number entries, we will be formatting our entries to currency.
+    * In order to display currency as format of the number entries, we will be formatting our entries to currency.
 
 
 12. Press CTRL + S, label the "File name" "budget" and click "Save" to save:
