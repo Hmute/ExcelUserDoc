@@ -4,7 +4,6 @@
 
 In this section, we will explore the very basic use of Excel: entering data in the [cells](Glossary.md), applying certain [functions](Glossary.md) on them based on their data type, such as SUM [function](Glossary.md) for numbers, creating a [table](Glossary.md) on the entries and formatting them. 
 
-
 ## Getting started
 
 We will be creating a hypothetical budget to give you a general idea of how Excel can be used. 
