@@ -2,8 +2,6 @@
 
 Welcome to a beginners guide to Excel. Microsoft's Excel is a powerful tool that can be used for a variety of tasks. This documentation will guide you through a collection of 3 task that are part of an Excel beginners project. This tutorial’s main purpose is to teach the main basic foundation steps on how to use Microsoft’s Excel, including teaching new users to use the formula tools, create graphs, and extract information from data. It aims to guide you through Microsoft’s Excel UI and get you acquainted with the capabilities of the program, providing you with the knowledge to start using Excel for your own projects.
 
-![Excel Image](Assets/Index/Index1.png)
-
 ## Intended Users
 
 This documentation is targeted towards the following Users:
@@ -35,13 +33,34 @@ Before you start this tutorial, you should have the following software installed
 The main sections of the documentation are:
 
 * Milestone 1: [Creating a small budget table in Excel ](Task1.md)  
-
 ![Budget](Assets/Index/Index2.png)  
+    
 
 * Milestone 2: [Creating a chart in Excel](Task2.md)  
-
 ![Chart](Assets/Index/Index3.png)  
 
 * Milestone 3: [Creating a CheckList in Excel](Task3.md)  
-
 ![CheckList](Assets/Index/Index4.png)  
+
+
+## Typographical Convention
+
+Some words/phrases are highlighted in color, cyan, that is clickable. It will forward you to a certain section in the document that is relevant. This can be useful for reducing effort in navigating through the document. For instance:
+
+* Clicking on key terms like, [Format](Glossary.md), will lead you to the glossary section
+
+
+* Clicking on phrases that describes one of the tasks like, [Creating a Chart](Glossary.md), will lead you to that specific task section.
+
+## Notes and Warning Messages
+
+We will use message blocks to inform and/or alert you with relevant information throughout this documentation:
+
+!!! warning "Warning"
+    <i class="fas fa-exclamation-triangle"></i> Specifies content that must be read before proceeding.
+
+!!! note "Info"
+    <i class="fas fa-info-circle"></i> Indicates additional information or tips.
+
+!!! success "Success"
+    <i class="fas fa-check-circle"></i> Indicates what success looks like.

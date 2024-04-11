@@ -16,7 +16,7 @@
 
 - Data: Data in Excel refers to the information stored in cells, which can include numbers, text, dates, and more. Data can be manipulated, analyzed, and presented using various Excel features.
 
-- Sheet: A sheet in Excel, also known as a worksheet, is a single tab within a workbook where data is entered and manipulated. A workbook can contain multiple sheets, each with its own set of cells and data.
+- Worksheet: A single tab within a workbook where data is entered and manipulated. A workbook can contain multiple worksheets, each with its own set of cells and data.
 
 - Workbook : A workbook in Excel is a file that contains one or more worksheets. It is the primary document where data is stored and analyzed. Workbooks can contain charts, formulas, tables, and other Excel objects.
 
