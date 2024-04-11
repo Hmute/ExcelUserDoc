@@ -2,7 +2,7 @@
 
 ## Overview
 
-In this section, we will explore the very basic use of Excel: entering data in the cells, applying certain functions on them based on their data type, such as SUM function for numbers, creating a table on the entries and formatting them. 
+In this section, we will explore the very basic use of Excel: entering data in the [cells](Glossary.md), applying certain [functions](Glossary.md) on them based on their data type, such as SUM [function](Glossary.md) for numbers, creating a [table](Glossary.md) on the entries and formatting them. 
 
 
 ## Getting started
@@ -14,13 +14,13 @@ We will be creating a hypothetical budget to give you a general idea of how Exce
     * You should be on "Home" section to access "Blank workbook"
  
 
-2. Label the cells from B1 onward with the months of the year.:
+2. Label the [cells](Glossary.md) from B1 onward with the months of the year.:
 ![Task1 Image](Assets/Task1/Task1_2.png)  
     * This sets up a clear timeline in this instance of creating a budget
     * Column A is left blank for additional categories or labels as needed
     * We're labeling cells with all the months of the year; however, you can customize this based on your needs, such as only labeling through April if that suits your project.
 
-3. Click on cell A2 to label any expense:
+3. Click on [cell](Glossary.md) A2 to label any expense:
 ![Task1 Image](Assets/Task1/Task1_3.png)  
     * We’re using rows A2 to A7 for six expense categories, ensuring there’s a one-column gap to the right for a cleaner separation from the monthly labels in columns B to M.
     
@@ -29,14 +29,14 @@ We will be creating a hypothetical budget to give you a general idea of how Exce
 ![Task1 Image](Assets/Task1/Task1_4.png)  
     * For instance, if you spent $400 on groceries in January, enter '400' in the cell under 'Jan' next to 'Groceries'.
 
-5. Click on cell O1 and label it "Total":
+5. Click on [cell](Glossary.md) O1 and label it "Total":
 ![Task1 Image](Assets/Task1/Task1_5.png)  
-    * This step is for totaling the monthly expenses. We use cell O1 for the 'Total' column to maintain a clear separation from the monthly data, ensuring there's at least one blank column as for easy distinction.
+    * This step is for totaling the monthly expenses. We use [cell](Glossary.md) O1 for the 'Total' column to maintain a clear separation from the monthly data, ensuring there's at least one blank column as for easy distinction.
 
 ## Applying [Function](Glossary.md)
 
 !!! note "Info"
-    <i class="fas fa-exclamation-triangle"></i> [Function](Glossary.md) can only be applied to the data of the same data type. For instance, "SUM" function in Excel can only be applied to numbers.
+    <i class="fas fa-exclamation-triangle"></i> [Function](Glossary.md) can only be applied to the data of the same data type. For instance, "SUM" [function](Glossary.md) in Excel can only be applied to numbers.
 
 6. Enter "=sum(" under "Total" cell:
 ![Task1 Image](Assets/Task1/Task1_6.png)
@@ -44,7 +44,7 @@ We will be creating a hypothetical budget to give you a general idea of how Exce
 7. Click and drag the mouse over the numbers, then hit enter to sum how much is spent on expense(s) over time:
 ![Task1 Image](Assets/Task1/Task1_7.png)
 ![Task1 Image](Assets/Task1/Task1_7B.png)
-    * Doing this will gather all the numbers to be summed. Again, SUM function only works with numerical values.
+    * Doing this will gather all the numbers to be summed. Again, SUM [function](Glossary.md) only works with numerical values.
 
 ## Creating a [Table](Glossary.md)
 8. Click and drag the mouse over the table and press ALT + H:
@@ -58,13 +58,13 @@ We will be creating a hypothetical budget to give you a general idea of how Exce
 ![Task1 Image](Assets/Task1/Task1_10A.png)
 ![Task1 Image](Assets/Task1/Task1_9B.png)
 
-## Formatting the data
+## [Formatting](Glossary.md) the data
 
-We will [_format_](Glossary.md) the number data into currency as our example in this tutorial deals with a budget.
+We will [format](Glossary.md) the number data into currency as our example in this tutorial deals with a budget.
 
 11. Click and drag over the number data and click the dollar icon($) under the "Number" sub  section of the "Home" tab, Between "Alignment", and "Styles":
 ![Task1 Image](Assets/Task1/Task1_10B.png)  
-    * In order to display currency as format of the number entries, we will be formatting our entries to currency.
+    * In order to display currency as [format](Glossary.md) of the number entries, we will be formatting our entries to currency.
 
 
 12. Press CTRL + S, label the "File name" "budget" and click "Save" to save:
@@ -75,9 +75,9 @@ We will [_format_](Glossary.md) the number data into currency as our example in 
 
 In this section, we have learned how to create a budget using Excel. We have accomplished:
 
-:white_check_mark: Entering data in the cells.
+:white_check_mark: Entering data in the [cells](Glossary.md).
 
-:white_check_mark: Applying the SUM function to calculate the total expenses.
+:white_check_mark: Applying the SUM [function](Glossary.md) to calculate the total expenses.
 
 :white_check_mark: Creating a table to organize the information. 
  
